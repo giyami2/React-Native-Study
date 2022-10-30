@@ -14,9 +14,9 @@ React-Native 공부용 프로젝트
 
 | Commit            | Emoji                    |
 | ----------------- | -------------------------|
-| 기능추가 | 📍 :round_pushpin: |
-| 기능삭제 | ❎ :negative_squared_cross_mark:|
-| 버그수정 | 🔨 :hammer: |
+| 기능추가 | 📍 round_pushpin |
+| 기능삭제 | ❎ negative_squared_cross_mark|
+| 버그수정 | 🔨 hammer |
 
 
 ## 기타 출처
